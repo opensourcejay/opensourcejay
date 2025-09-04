@@ -2,7 +2,7 @@
 
 I'm a tech strategist and engineer focused on making complex things simple and fun to work with.
 
-🧠 I share real-world projects and walkthroughs on [YouTube](https://youtube.com/@imjustablknerd) to help devs learn by building. Whether it's web apps, AI tools, or creative experiments, I break it down in a way that makes sense.
+🧠 I share real-world projects and walkthroughs to help devs learn by building. Whether it's web apps, AI tools, or creative experiments, I break it down in a way that makes sense.
 
 ---
 
