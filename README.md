@@ -42,7 +42,6 @@ I'm a tech strategist and engineer focused on making complex things simple and f
 
 ## 📬 Connect with Me
 
-- 🌐 YouTube: [@imjustablknerd](https://youtube.com/@imjustablknerd)
 - 💻 Code Repos: Right here — browse and clone what you need.
 
 ---
